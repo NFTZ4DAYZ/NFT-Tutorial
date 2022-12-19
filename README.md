@@ -1,4 +1,4 @@
-#Simple NFT Project
+# Simple NFT Project
 
 Using Hardhat to create a basic NFT project
 
